@@ -1,6 +1,6 @@
 # Telugu-PDF-Reader
 
-dowload tesseract-files from : https://drive.google.com/drive/folders/15Zt7ZO9T6Hm9TXovcB383WwSFxl07l-f?usp=sharing
+dowload tesseract-files from : https://drive.google.com/drive/folders/10a0C2BPqpO7qkJRyQdZkiVF3417rEBcf?usp=sharing
 
 download poppler-files from: https://drive.google.com/drive/folders/1JcnJvyw6o0q2VlLwHsYGh0KvKPthV6al?usp=sharing
 
