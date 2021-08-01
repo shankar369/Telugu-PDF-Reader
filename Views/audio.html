@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+{% block content %}
+{% for audio in audios -%}
+<div>
+    <h2>{{audio}}</h2>
+    <audio
+    controls
+    src={{"/static/audios/"+folder+"/"+audio}}>
+        Your browser does not support the
+        <code>audio</code> element.
+    </audio>
+</div>
+{% endfor %}
+{% endblock %}

@@ -18,3 +18,8 @@ requests==2.26.0
 six==1.16.0
 urllib3==1.26.6
 virtualenv==20.6.0
+fastapi==0.68.0
+uvicorn==0.14.0
+python-multipart==0.0.5
+aiofiles==0.7.0
+apscheduler==3.7.0

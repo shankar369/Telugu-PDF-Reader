@@ -1,0 +1,8 @@
+{% extends "layout.html" %}
+{% block content %}
+{% for folder in folders -%}
+    <div>
+        <a href={{"/audios/"+folder}}>{{folder}}</a>
+    </div>
+{% endfor %}
+{% endblock %}
