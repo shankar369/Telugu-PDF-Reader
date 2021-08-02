@@ -2,7 +2,8 @@ telugu-reader
 audios
 libs
 Scripts
-statics
+statics/audios/*
+statics/pdfs/*
 libs
 Lib
 Include

@@ -39,7 +39,7 @@ def process_pdf(file):
             print("extracting page: ", image)
 
             myobj = gTTS(text=extract_info(image), lang="te", slow=False)
-            myobj.save(op_dir+f'{cnt}.mp3')
+            myobj.save(op_dir+f'page-{cnt}.mp3')
         except Exception as ex:
             print(str(ex))
 
